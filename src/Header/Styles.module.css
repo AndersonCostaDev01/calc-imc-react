@@ -1,0 +1,11 @@
+.header {
+    padding: 45px;
+    display: flex;
+    justify-content: center;
+    background-color: var(--corSecundaria);
+}
+
+.title {
+    color: #fff;
+    background-color: transparent;
+}
